@@ -10,6 +10,7 @@ public class Person {
     private String git3;
     private String git4;
     private String hotfixgit;
+    private String hotfixgit2;
 
 
     public Integer getId() {
