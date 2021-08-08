@@ -5,6 +5,7 @@ public class Person {
     private String name;
     private String gender;
     private String email;
+    private String git;
 
     public Integer getId() {
         return id;
