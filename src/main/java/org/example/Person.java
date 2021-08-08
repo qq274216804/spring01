@@ -6,6 +6,7 @@ public class Person {
     private String gender;
     private String email;
     private String git;
+    private String git2;
 
     public Integer getId() {
         return id;
