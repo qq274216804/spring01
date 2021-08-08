@@ -7,6 +7,8 @@ public class Person {
     private String email;
     private String git;
     private String git2;
+    private String git3;
+
 
     public Integer getId() {
         return id;
