@@ -8,6 +8,7 @@ public class Person {
     private String git;
     private String git2;
     private String git3;
+    private String hotfixgit;
 
 
     public Integer getId() {
